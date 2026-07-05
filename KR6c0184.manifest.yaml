@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6c0184_000.yaml, hash: 'sha256:69ac3a75f32fb87d722bc3581ab56f1ae49a13c9c6871b4cd441cd033e74bea8'}
-  - {seq: 1, filename: KR6c0184_001.yaml, hash: 'sha256:a47bd89b945492a6cbb89e1c879397fd3a75a4cedb47f8f01d42c4ee0ac72bbc'}
+  - {seq: 1, filename: KR6c0184_001.yaml, hash: 'sha256:fcb10b5317eb6c37607ba7e23262a46f4b3befbbe212b4cfc2b19cc4b7e6de33'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6c0184_001.markers.yaml, hash: 'sha256:2fb792f19f812e5f81bcf412edf0943b5233145dfd85e2b4e3eb34e65f47883f'}
+  - {seq: 0, role: markers, filename: assets/KR6c0184_000.markers.yaml, hash: 'sha256:a96fadfa5f9ac522ac442253807c65f7a8452f03f1fa72d7ce65b3f4d4db5383'}
+  - {seq: 1, role: markers, filename: assets/KR6c0184_001.markers.yaml, hash: 'sha256:a097752ebc630d5cc695f98372ac4037c1fc081efe437c87c51632ec94a513c0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 般若心經論
   type: juan
   level: 1
-hash: sha256:fbfe00fb759ab6eaf7fa9e4d6610b744d20030f79400683e861953d76a3fcef0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:648c475daa4c7156b232d2711a548c0c94e3319a4f5c40369afee0f8f812c5af
